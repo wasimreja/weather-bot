@@ -1,9 +1,13 @@
 # Weather Bot
 
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+
+## About The Project
+
 A discord weather bot that displays weather information of a given city.
 
 <p>
-    <img src="./img/preview.png" width="70%" />
+    <img src="./img/preview.png" />
 </p>
 
 ## Resources and APIs
