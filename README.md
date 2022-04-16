@@ -1,6 +1,8 @@
-# Weather Bot
-
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+<h1 align="center">Weather Bot</h1>
+<p align="center">
+   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+   <img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+</p>
 
 ## About The Project
 
